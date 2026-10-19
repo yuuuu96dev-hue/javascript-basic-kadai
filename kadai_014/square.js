@@ -1,7 +1,7 @@
 const num = 10
 
 const total = (a) => {
-  return num * num
+  return a * a
 }
 
 console.log(total(num))
